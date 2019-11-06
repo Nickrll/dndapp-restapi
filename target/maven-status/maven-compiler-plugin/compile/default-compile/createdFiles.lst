@@ -1,0 +1,11 @@
+org/springframework/internalrestapi/models/Stats.class
+org/springframework/internalrestapi/controller/CharacterController.class
+org/springframework/internalrestapi/models/Proficiency.class
+org/springframework/internalrestapi/models/Item.class
+org/springframework/internalrestapi/repository/CharacterRepository.class
+org/springframework/internalrestapi/models/Language.class
+org/springframework/internalrestapi/models/Inventory.class
+org/springframework/internalrestapi/models/Campaign.class
+org/springframework/internalrestapi/models/Characteristics.class
+org/springframework/internalrestapi/models/Spell.class
+org/springframework/internalrestapi/models/StatusAilment.class
