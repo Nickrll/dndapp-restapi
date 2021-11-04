@@ -1,1 +1,4 @@
 # micro-Eureka
+
+The concept of the project is a distributed frontend with a single rest api in the background that will simulate the game dungeons and dragons. Dungeon and Dragons is a “Create your own adventure” rpg (Role playing game) that allows its users to create a character for themselves and emerge themselves in the world of fantasy. There is a giant player base that plays this and with them many tools to help automate the process and make it playable. The problem arises when you want to combine the tools and automate the process of flowing through the world. This flow will sometimes stagnate because of the many communication, functional and technical variables that are needed to play the game. The concept will tackle this problem by automating the creation of the characters and the campaigns and giving the players more help in developing their own worlds or using those that are already made by the creators of d&d.
+
